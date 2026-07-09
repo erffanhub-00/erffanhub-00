@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Erffan_hub
 
 [![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
@@ -25,7 +25,7 @@ I build, break, and rebuild them.
 ## 📫 Connect
 
 - Telegram: [erffan_hub](https://t.me/erffan_hub)
-```
+
 
 ## 🧠 درباره‌ی من
 کامپیوتر منو دیوونه میکنه.  
