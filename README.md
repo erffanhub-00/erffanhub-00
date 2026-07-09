@@ -1,46 +1,152 @@
-
 # 👋 Erffan_hub
 
 [![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
 [![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
+
+---
+
+🇬🇧 **English** | [🇮🇷 **فارسی**](#-فارسی)
+
 ---
 
 ## 🧠 Who am I?
 
 ```text
-Computer makes me crazy.
-Someone who loves to build.
-Learn · Build · Share
+Computers make me crazy.
+And I love every second of it.
 ```
 
+I don't just use technology — I **chase** it.  
+I tear it apart, figure out why it works, and put it back together better.
 
+I'm a **learner** before anything else.  
+And I'm not afraid to start from zero — because that's where the real growth begins.
 
-## 🎯 What I do?
-
-I don't just use them.
-I build, break, and rebuild them.
+> 🚀 Junior? Yes.  
+> Weak? Not a chance.  
+> Hungry? Always.
 
 ---
 
-## 📫 Connect
+## ⚙️ What I do?
 
-- 💬 Telegram: [erffan_hub](https://t.me/erffan_hub)
-- 🐦 Twitter: [Erffanhub_00](https://x.com/Erffanhub_00)
+- 🔥 Break things — intentionally, to understand them deeply  
+- 🧱 Build systems that survive chaos  
+- 🔄 Rebuild them until they feel right  
+- 📡 Play with networks, distributed systems, and architecture  
+- 🧠 Learn something new every single day — and share it
+
 ---
 
+## 📫 Connect with me
 
-## 🧠 درباره‌ی من
-کامپیوتر منو دیوونه میکنه.  
-و من عاشق این دیوانگی‌ام.
+[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
+[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
 
-از بچگی عاشق این بودم که بدونم چیزها چطور کار میکنن.  
-حالا بزرگتر شدم و فهمیدم که قرار نیست فقط بدونم، قراره بسازمشون.
+**Say hi. Ask questions. Challenge me.**  
+I'm always down for a good conversation.
 
-شبکه، سیستم‌های توزیع‌شده، معماری نرم‌افزار — اینا چیزهایی‌ان که شب‌ها بیدارم نگه میدارن.
+---
 
-تازه‌ کارم؟ بله.  
-ولی تازه‌ کاری به معنای کم‌توانی نیست.  
-به معنای اینه که جا برای رشد هست.  
-و من عاشق رشد کردن‌ام.
+## 🧩 Fun fact
 
-**Learn · Build · Share**
+> My best ideas come at 2 AM,  
+> when everyone else is asleep  
+> and the only sound is my keyboard.
+
+---
+
+## 🌱 Currently
+
+- 🔭 Diving deep into **distributed systems**  
+- 🌐 Learning **Go** & **Rust** (because why not suffer a little?)  
+- 📖 Reading: *"Designing Data-Intensive Applications"*  
+- ☕ Coffee intake: dangerously high
+
+---
+
+## 🤝 Let's build something
+
+If you're into **systems, networks, or just breaking things for fun** — we'll get along just fine.
+
+**Star the repo. Say hello. Let's grow together.**
+
+---
+
+**Made with ☕, 🧠, and a little bit of madness.**
+
+---
+
+---
+
+# 🇮🇷 فارسی
+
+[🇬🇧 **English**](#-who-am-i) | 🇮🇷 **فارسی**
+
+---
+
+## 🧠 من کی‌ام؟
+
+```text
+کامپیوتر منو دیوونه میکنه.
+و من عاشق هر ثانیه‌اش هستم.
+```
+
+من فقط از تکنولوژی استفاده نمی‌کنم — **تعقیبش** می‌کنم.  
+تکه‌تکه‌اش می‌کنم، می‌فهمم چطور کار می‌کنه، و بهتر از قبل دوباره سرهمش می‌کنم.
+
+قبل از هر چیز، من یک **یادگیرنده**‌ام.  
+و از شروع از صفر نمی‌ترسم — چون رشد واقعی دقیقاً همونجاست.
+
+> 🚀 تازه‌کارم؟ بله.  
+> ضعیف؟ نه شانسی.  
+> تشنه؟ همیشه.
+
+---
+
+## ⚙️ چه کار می‌کنم؟
+
+- 🔥 چیزها رو می‌شکنم — عمداً، تا عمیقاً بفهممشون  
+- 🧱 سیستم‌هایی می‌سازم که از پس هرج‌ومرج بربیان  
+- 🔄 دوباره می‌سازمشون تا وقتی که حس درست داشته باشن  
+- 📡 با شبکه‌ها، سیستم‌های توزیع‌شده و معماری ور می‌رم  
+- 🧠 هر روز یه چیز تازه یاد می‌گیرم — و به اشتراک می‌ذارم
+
+---
+
+## 📫 با من ارتباط بگیر
+
+[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
+[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
+
+**سلام کن. سؤال بپرس. به چالش بکشم.**  
+همیشه حاضرم برای یه گفت‌وگوی خوب.
+
+---
+
+## 🧩 یه حقیقت جالب
+
+> بهترین ایده‌هام ساعت ۲ نصف‌شب می‌رسن،  
+> وقتی همه خوابن  
+> و تنها صدایی که میاد، صدای کیبوردمه.
+
+---
+
+## 🌱 درحال‌حاضر
+
+- 🔭 دارم تو **سیستم‌های توزیع‌شده** عمیق می‌شم  
+- 🌐 دارم **Go** و **Rust** یاد می‌گیرم (چرا که نه، یه کم رنج بکشیم؟)  
+- 📖 در حال خوندن: *"Designing Data-Intensive Applications"*  
+- ☕ مصرف قهوه: به طرز خطرناکی بالا
+
+---
+
+## 🤝 بیا یه چیزی بسازیم
+
+اگه به **سیستم‌ها، شبکه‌ها، یا صرفاً شکستن چیزا برای تفریح** علاقه داری — با هم خوب کنار می‌ایم.
+
+**به ریپو ستاره بده. سلام کن. با هم رشد کنیم.**
+
+---
+
+**ساخته شده با ☕، 🧠، و یه کم جنون.**
