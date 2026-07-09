@@ -11,20 +11,14 @@
 
 ## 🧠 Who am I?
 
-```text
-Computers make me crazy.
+Computers make me crazy.  
 And I love every second of it.
-```
 
 I don't just use technology — I **chase** it.  
 I tear it apart, figure out why it works, and put it back together better.
 
 I'm a **learner** before anything else.  
 And I'm not afraid to start from zero — because that's where the real growth begins.
-
-> 🚀 Junior? Yes.  
-> Weak? Not a chance.  
-> Hungry? Always.
 
 ---
 
@@ -58,8 +52,7 @@ I'm always down for a good conversation.
 
 ## 🌱 Currently
 
-- 🔭 Diving deep into **distributed systems**  
-- 🌐 Learning **Go** & **Rust** (because why not suffer a little?)  
+- 🔭 Diving deep into **distributed systems**    
 - 📖 Reading: *"Designing Data-Intensive Applications"*  
 - ☕ Coffee intake: dangerously high
 
@@ -87,20 +80,14 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 
 ## 🧠 من کی‌ام؟
 
-```text
-کامپیوتر منو دیوونه میکنه.
+کامپیوتر منو دیوونه میکنه.  
 و من عاشق هر ثانیه‌اش هستم.
-```
 
 من فقط از تکنولوژی استفاده نمی‌کنم — **تعقیبش** می‌کنم.  
 تکه‌تکه‌اش می‌کنم، می‌فهمم چطور کار می‌کنه، و بهتر از قبل دوباره سرهمش می‌کنم.
 
 قبل از هر چیز، من یک **یادگیرنده**‌ام.  
 و از شروع از صفر نمی‌ترسم — چون رشد واقعی دقیقاً همونجاست.
-
-> 🚀 تازه‌کارم؟ بله.  
-> ضعیف؟ نه شانسی.  
-> تشنه؟ همیشه.
 
 ---
 
