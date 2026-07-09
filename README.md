@@ -24,7 +24,9 @@ I build, break, and rebuild them.
 
 ## 📫 Connect
 
-- Telegram: [erffan_hub](https://t.me/erffan_hub)
+- 💬 Telegram: [erffan_hub](https://t.me/erffan_hub)
+- 🐦 Twitter: [Erffanhub_00](https://x.com/Erffanhub_00)
+---
 
 
 ## 🧠 درباره‌ی من
