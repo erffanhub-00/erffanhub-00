@@ -32,16 +32,6 @@ And I'm not afraid to start from zero — because that's where the real growth b
 
 ---
 
-## 📫 Connect with me
-
-[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
-[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
-
-**Say hi. Ask questions. Challenge me.**  
-I'm always down for a good conversation.
-
----
-
 ## 🧩 Fun fact
 
 > My best ideas come at 2 AM,  
@@ -53,12 +43,17 @@ I'm always down for a good conversation.
 ## 🌱 Currently
 
 - 🔭 Diving deep into **distributed systems**    
-- 📖 Reading: *"Designing Data-Intensive Applications"*  
 - ☕ Coffee intake: dangerously high
 
 ---
 
 ## 🤝 Let's build something
+
+[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
+[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
+
+**Say hi. Ask questions. Challenge me.**  
+I'm always down for a good conversation.
 
 If you're into **systems, networks, or just breaking things for fun** — we'll get along just fine.
 
@@ -101,16 +96,6 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 
 ---
 
-## 📫 با من ارتباط بگیر
-
-[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
-[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
-
-**سلام کن. سؤال بپرس. به چالش بکشم.**  
-همیشه حاضرم برای یه گفت‌وگوی خوب.
-
----
-
 ## 🧩 یه حقیقت جالب
 
 > بهترین ایده‌هام ساعت ۲ نصف‌شب می‌رسن،  
@@ -122,13 +107,18 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 ## 🌱 درحال‌حاضر
 
 - 🔭 دارم تو **سیستم‌های توزیع‌شده** عمیق می‌شم  
-- 🌐 دارم **Go** و **Rust** یاد می‌گیرم (چرا که نه، یه کم رنج بکشیم؟)  
-- 📖 در حال خوندن: *"Designing Data-Intensive Applications"*  
 - ☕ مصرف قهوه: به طرز خطرناکی بالا
 
 ---
 
 ## 🤝 بیا یه چیزی بسازیم
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
+[![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
+
+**سلام کن. سؤال بپرس. به چالش بکشم.**  
+همیشه حاضرم برای یه گفت‌وگوی خوب.
 
 اگه به **سیستم‌ها، شبکه‌ها، یا صرفاً شکستن چیزا برای تفریح** علاقه داری — با هم خوب کنار می‌ایم.
 
