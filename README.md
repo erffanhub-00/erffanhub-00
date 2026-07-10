@@ -130,8 +130,7 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 
 ---
 
----
 
 ## 🔗 لینک گیست / Gist Link
 
-**https://gist.github.com/erffanhub-00**
+[![Gist](https://img.shields.io/badge/Gist-Profile-000000?style=for-the-badge&logo=github)](https://gist.github.com/erffanhub-00)
