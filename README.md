@@ -133,8 +133,15 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 [![Gist](https://img.shields.io/badge/Gist-Profile-000000?style=for-the-badge&logo=github)](https://gist.github.com/erffanhub-00)
 
 ---
-
-**ساخته شده با ☕، 🧠، و یه کم جنون.**
-
-
-
+<div align="center">
+  <br>
+  <strong style="font-size: 1.6rem; color: #c084fc; font-family: 'Fira Code', monospace;">
+    ساخته شده با ☕، 🧠، و یه کم جنون.
+  </strong>
+  <br>
+  <div style="width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=80&section=footer" 
+         alt="footer wave" 
+         style="width: 100%; display: block;" />
+  </div>
+</div>
