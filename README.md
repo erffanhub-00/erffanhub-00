@@ -135,7 +135,7 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 ---
 <div align="center">
   <br>
-  <strong style="font-size: 1.6rem; color: #c084fc; font-family: 'Fira Code', monospace;">
+  <strong>
     ساخته شده با ☕، 🧠، و یه کم جنون.
   </strong>
   <br>
