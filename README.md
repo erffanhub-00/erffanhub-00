@@ -1,4 +1,8 @@
-# 👋 Erffan_hub
+<div align="center">
+  <!-- اسم با افکت تایپ -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=800&color=9400D3&center=true&vCenter=true&width=500&lines=erffanhub-00" alt="Typing SVG" />
+</div>  
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-erffan__hub-blue?style=for-the-badge&logo=telegram)](https://t.me/erffan_hub)
 [![Twitter](https://img.shields.io/badge/Twitter-@Erffanhub__00-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Erffanhub_00)
