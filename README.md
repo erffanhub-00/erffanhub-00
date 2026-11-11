@@ -15,24 +15,21 @@
 
 ## 🧠 Who am I?
 
-Computers make me crazy.  
-And I love every second of it.
+I'm the kind of person who can't just use something without knowing
+how it works. I open it up, take it apart, break it — and then I
+understand it.
 
-I don't just use technology — I **chase** it.  
-I tear it apart, figure out why it works, and put it back together better.
-
-I'm a **learner** before anything else.  
-And I'm not afraid to start from zero — because that's where the real growth begins.
+That's how I learn: from zero, hands-on, one broken thing at a time.
+And once I understand it, I build it again, better than before.
 
 ---
 
 ## ⚙️ What do I do?
 
-- 🔥 Break things — intentionally, to understand them deeply
-- 🧱 Build systems that survive chaos
-- 🔄 Rebuild them until they feel right
-- 📡 Play with networks, distributed systems, and architecture
-- 🧠 Learn something new every single day — and share it
+- 🔧 Take things apart until I understand how they work
+- 🧱 Build systems and tools — mostly networks, diagnostics, and things that have to keep working
+- 🔄 Break what I built, then rebuild it cleaner
+- 📝 Learn something new, write it down, share it
 
 ---
 
@@ -47,24 +44,6 @@ And I'm not afraid to start from zero — because that's where the real growth b
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, Python, PowerShell
-- **Web:** Astro, HTML/CSS, Tailwind CSS
-- **Platforms:** Cloudflare Workers, D1, Telegram Bot API
-- **Focus:** networking, diagnostics, distributed systems
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erffanhub-00&theme=github_dark" alt="GitHub profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erffanhub-00&theme=github_dark" alt="Repos per language" />
-</div>
-
----
-
 ## 🌱 Currently
 
 - 🔭 Professionalizing my GitHub repos — structure, tests, docs, the works
@@ -74,9 +53,9 @@ And I'm not afraid to start from zero — because that's where the real growth b
 
 ## 🤝 Let's build something
 
-**Say hi. Ask questions. Challenge me.**
-
-If you're into **systems, networks, or just breaking things for fun** — we'll get along just fine. Reach me on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
+If you like taking things apart too — or you just want to talk about
+systems, networks, or a project idea — say hi. I'm usually around
+on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
 
 ---
 
@@ -88,24 +67,21 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 
 ## 🧠 من کی‌ام؟
 
-کامپیوتر منو دیوونه میکنه.  
-و من عاشق هر ثانیه‌اش هستم.
+من از اون آدم‌هام که نمی‌تونن یه چیزی رو فقط استفاده کنن؛ باید
+بدونم چطور کار می‌کنه. بازش می‌کنم، تکه‌تکه‌اش می‌کنم، خرابش
+می‌کنم — تا بفهممش.
 
-من فقط از تکنولوژی استفاده نمی‌کنم — **تعقیبش** می‌کنم.  
-تکه‌تکه‌اش می‌کنم، می‌فهمم چطور کار می‌کنه، و بهتر از قبل دوباره سرهمش می‌کنم.
-
-قبل از هر چیز، من یک **یادگیرنده**‌ام.  
-و از شروع از صفر نمی‌ترسم — چون رشد واقعی دقیقاً همونجاست.
+اینجوری یاد می‌گیرم: از صفر شروع می‌کنم، خراب می‌کنم، درستش
+می‌کنم، و وقتی فهمیدم چطور کار می‌کنه، بهتر از قبل می‌سازمش.
 
 ---
 
 ## ⚙️ چه کار می‌کنم؟
 
-- 🔥 چیزها رو می‌شکنم — عمداً، تا عمیقاً بفهممشون
-- 🧱 سیستم‌هایی می‌سازم که از پس هرج‌ومرج بربیان
-- 🔄 دوباره می‌سازمشون تا وقتی که حس درست داشته باشن
-- 📡 با شبکه‌ها، سیستم‌های توزیع‌شده و معماری ور می‌رم
-- 🧠 هر روز یه چیز تازه یاد می‌گیرم — و به اشتراک می‌ذارم
+- 🔧 چیزها رو باز می‌کنم تا بفهمم واقعاً چطور کار می‌کنن
+- 🧱 سیستم و ابزار می‌سازم — بیشتر شبکه، عیب‌یابی، و چیزهایی که باید سر پا بمونن
+- 🔄 چیزی رو که ساختم خراب می‌کنم، بعد تمیزتر دوباره می‌سازمش
+- 📝 هر چیزی که یاد می‌گیرم رو می‌نویسم و به اشتراک می‌ذارم
 
 ---
 
@@ -120,27 +96,18 @@ If you're into **systems, networks, or just breaking things for fun** — we'll 
 
 ---
 
-## 🛠️ تکنولوژی‌ها
-
-- **زبان‌ها:** JavaScript ،Python ،PowerShell
-- **وب:** Astro ،HTML/CSS ،Tailwind CSS
-- **پلتفرم‌ها:** Cloudflare Workers ،D1 ،Telegram Bot API
-- **تمرکز:** شبکه، عیب‌یابی، سیستم‌های توزیع‌شده
-
----
-
 ## 🌱 درحال‌حاضر
 
-- 🔭 دارم ریپوهام رو حرفه‌ای و مرتب می‌کنم — ساختار، تست، داک، همه‌چیز
-- 🏥 دارم **داروچی** رو می‌سازم؛ سایت دکتر و بیمار برای یه مشتری واقعی
+- 🔭 دارم ریپوهام رو درست‌وحسابی مرتب می‌کنم — ساختار، تست، داک
+- 🏥 دارم **داروچی** رو می‌سازم؛ سایت دکتر و بیمار برای یه مشتری واقعی (فارسی، راست‌به‌چپ)
 
 ---
 
 ## 🤝 بیا یه چیزی بسازیم
 
-**سلام کن. سؤال بپرس. به چالشم بکشید.**
-
-اگه به **سیستم‌ها، شبکه‌ها، یا صرفاً شکستن چیزا برای تفریح** علاقه داری — با هم خوب کنار می‌ایم. تو [تلگرام](https://t.me/erffan_hub) یا [ایکس](https://x.com/Erffanhub_00) پیدام کن.
+اگه تو هم دوست داری چیزها رو باز کنی و بفهمی توشون چی می‌گذره — یا
+فقط می‌خوای درباره سیستم‌ها، شبکه‌ها یا یه ایده حرف بزنی — سلام کن.
+معمولاً تو [تلگرام](https://t.me/erffan_hub) یا [ایکس](https://x.com/Erffanhub_00) هستم.
 
 ---
 
