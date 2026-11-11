@@ -90,7 +90,8 @@ on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
 - **[erffanhub-bot](https://github.com/erffanhub-00/erffanhub-bot)** — بات عمومی کتابخانه فایل تلگرام روی Telegram Serverless: عضویت اجباری کانال + گروه، درخواست فایل با آی‌دی یا جست‌وجو، فایل‌های پریمیوم با کیف پول.
 - **[server-tester](https://github.com/erffanhub-00/server-tester)** — تست‌کننده شبکه چندپروتکله با PowerShell: پینگ، TCP، HTTP و DNS، با اعتبارسنجی واقعی TLS و خروجی JSON/CSV.
 - **[Network-Ping-Pro](https://github.com/erffanhub-00/Network-Ping-Pro)** — ابزار خط فرمان پایتون برای عیب‌یابی شبکه: بررسی ICMP و TCP و HTTP، تأخیر و افت بسته، با امتیاز سلامت ۰ تا ۱۰۰.
-- **[website-erffan](https://github.com/erffanhub-00/website-erffan)** — وب‌سایت و وبلاگ شخصی من با Astro 5 و Tailwind، راست‌به‌چپ فارسی، روی Cloudflare Workers. نسخه زنده: [website-erffan.erffanhub.workers.dev](https://website-erffan.erffanhub.workers.dev).
+- **[website-erffan](https://github.com/erffanhub-00/website-erffan)** — وب‌سایت و وبلاگ شخصی من با Astro 5 و Tailwind، روی Cloudflare Workers.
+-  نسخه زنده: [website-erffan.erffanhub.workers.dev](https://website-erffan.erffanhub.workers.dev).
 - **[Website-Status-Checker](https://github.com/erffanhub-00/Website-Status-Checker)** — صفحه وضعیت سبک و زنده: هر ۳۰ ثانیه لیستی از سایت‌ها رو چک می‌کنه و بالا/پایین بودنشون رو نشون می‌ده.
 - **[gist-sync](https://github.com/erffanhub-00/gist-sync)** — مدیریت همه گیست‌های گیت‌هاب از یه پوشه: منوی کلیدجهتی، سینک خودکار با پول، فقط تغییرات واقعی، ریدمی دوزبانه.
 
