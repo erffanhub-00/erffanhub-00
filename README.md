@@ -47,7 +47,7 @@ And once I understand it, I build it again, better than before.
 ## 🌱 Currently
 
 - 🔭 Professionalizing my GitHub repos — structure, tests, docs, the works
-- 🏥 Building **Darouchi**, a doctor–patient website (Persian, RTL) for a real client
+- 🏥 Building **Darouchi**, a doctor–patient website for a real client
 
 ---
 
@@ -99,7 +99,7 @@ on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
 ## 🌱 درحال‌حاضر
 
 - 🔭 دارم ریپوهام رو درست‌وحسابی مرتب می‌کنم — ساختار، تست، داک
-- 🏥 دارم **داروچی** رو می‌سازم؛ سایت دکتر و بیمار برای یه مشتری واقعی (فارسی، راست‌به‌چپ)
+- 🏥 دارم **داروچی** رو می‌سازم؛ سایت دکتر و بیمار برای یه مشتری واقعی
 
 ---
 
