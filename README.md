@@ -38,11 +38,12 @@ And I'm not afraid to start from zero — because that's where the real growth b
 
 ## 🚀 Projects
 
-- **[erffanhub-bot](https://github.com/erffanhub-00/erffanhub-bot)** — Personal Telegram toolbox bot on Cloudflare Workers: owner-only access, inline search over saved files.
+- **[erffanhub-bot](https://github.com/erffanhub-00/erffanhub-bot)** — Public Telegram file-library bot on Telegram Serverless: force-join channel + group, request files by ID or search, premium files with wallet.
 - **[server-tester](https://github.com/erffanhub-00/server-tester)** — Multi-protocol network tester in PowerShell: Ping, TCP, HTTP and DNS, with real TLS validation and JSON/CSV output.
 - **[Network-Ping-Pro](https://github.com/erffanhub-00/Network-Ping-Pro)** — Python CLI for network diagnostics: ICMP, TCP and HTTP checks, latency and packet loss, with a 0–100 health score.
 - **[website-erffan](https://github.com/erffanhub-00/website-erffan)** — My personal website and blog, built with Astro 5 and Tailwind, Persian RTL, served from Cloudflare Workers. Live at [website-erffan.erffanhub.workers.dev](https://website-erffan.erffanhub.workers.dev).
 - **[Website-Status-Checker](https://github.com/erffanhub-00/Website-Status-Checker)** — Lightweight live status page: checks a list of sites every 30 seconds and shows up/down at a glance.
+- **[gist-sync](https://github.com/erffanhub-00/gist-sync)** — Manage all your GitHub Gists from one folder: arrow-key menu, auto sync with pull, real changes only, bilingual README.
 
 ---
 
@@ -64,35 +65,18 @@ And I'm not afraid to start from zero — because that's where the real growth b
 
 ---
 
-## 🧩 Fun fact
-
-> My best ideas come at 2 AM,
-> when everyone else is asleep
-> and the only sound is my keyboard.
-
----
-
 ## 🌱 Currently
 
 - 🔭 Professionalizing my GitHub repos — structure, tests, docs, the works
 - 🏥 Building **Darouchi**, a doctor–patient website (Persian, RTL) for a real client
-- 🤖 Planning a new AI project: Telegram bot + Cloudflare + AI
-- ☕ Coffee intake: dangerously high
 
 ---
 
 ## 🤝 Let's build something
 
-**Say hi. Ask questions. Challenge me.**  
-I'm always down for a good conversation.
+**Say hi. Ask questions. Challenge me.**
 
-If you're into **systems, networks, or just breaking things for fun** — we'll get along just fine.
-
-Reach me on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
-
----
-
-**Made with ☕, 🧠, and a little bit of madness.**
+If you're into **systems, networks, or just breaking things for fun** — we'll get along just fine. Reach me on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_00).
 
 ---
 
@@ -127,11 +111,12 @@ Reach me on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_0
 
 ## 🚀 پروژه‌ها
 
-- **[erffanhub-bot](https://github.com/erffanhub-00/erffanhub-bot)** — بات تلگرام شخصی روی Cloudflare Workers: دسترسی فقط برای مالک، جست‌وجوی inline بین فایل‌های ذخیره‌شده.
+- **[erffanhub-bot](https://github.com/erffanhub-00/erffanhub-bot)** — بات عمومی کتابخانه فایل تلگرام روی Telegram Serverless: عضویت اجباری کانال + گروه، درخواست فایل با آی‌دی یا جست‌وجو، فایل‌های پریمیوم با کیف پول.
 - **[server-tester](https://github.com/erffanhub-00/server-tester)** — تست‌کننده شبکه چندپروتکله با PowerShell: پینگ، TCP، HTTP و DNS، با اعتبارسنجی واقعی TLS و خروجی JSON/CSV.
 - **[Network-Ping-Pro](https://github.com/erffanhub-00/Network-Ping-Pro)** — ابزار خط فرمان پایتون برای عیب‌یابی شبکه: بررسی ICMP و TCP و HTTP، تأخیر و افت بسته، با امتیاز سلامت ۰ تا ۱۰۰.
 - **[website-erffan](https://github.com/erffanhub-00/website-erffan)** — وب‌سایت و وبلاگ شخصی من با Astro 5 و Tailwind، راست‌به‌چپ فارسی، روی Cloudflare Workers. نسخه زنده: [website-erffan.erffanhub.workers.dev](https://website-erffan.erffanhub.workers.dev).
 - **[Website-Status-Checker](https://github.com/erffanhub-00/Website-Status-Checker)** — صفحه وضعیت سبک و زنده: هر ۳۰ ثانیه لیستی از سایت‌ها رو چک می‌کنه و بالا/پایین بودنشون رو نشون می‌ده.
+- **[gist-sync](https://github.com/erffanhub-00/gist-sync)** — مدیریت همه گیست‌های گیت‌هاب از یه پوشه: منوی کلیدجهتی، سینک خودکار با پول، فقط تغییرات واقعی، ریدمی دوزبانه.
 
 ---
 
@@ -144,39 +129,22 @@ Reach me on [Telegram](https://t.me/erffan_hub) or [X](https://x.com/Erffanhub_0
 
 ---
 
-## 🧩 یه حقیقت جالب
-
-> بهترین ایده‌هام ساعت ۲ نصف‌شب می‌رسن،
-> وقتی همه خوابن
-> و تنها صدایی که میاد، صدای کیبوردمه.
-
----
-
 ## 🌱 درحال‌حاضر
 
 - 🔭 دارم ریپوهام رو حرفه‌ای و مرتب می‌کنم — ساختار، تست، داک، همه‌چیز
 - 🏥 دارم **داروچی** رو می‌سازم؛ سایت دکتر و بیمار برای یه مشتری واقعی
-- 🤖 دارم یه پروژه AI جدید برنامه‌ریزی می‌کنم: بات تلگرام + Cloudflare + هوش مصنوعی
-- ☕ مصرف قهوه: به طرز خطرناکی بالا
 
 ---
 
 ## 🤝 بیا یه چیزی بسازیم
 
-**سلام کن. سؤال بپرس. به چالشم بکشید.**  
-همیشه حاضرم برای یه گفت‌وگوی خوب.
+**سلام کن. سؤال بپرس. به چالشم بکشید.**
 
-اگه به **سیستم‌ها، شبکه‌ها، یا صرفاً شکستن چیزا برای تفریح** علاقه داری — با هم خوب کنار می‌ایم.
-
-تو [تلگرام](https://t.me/erffan_hub) یا [ایکس](https://x.com/Erffanhub_00) پیدام کن.
+اگه به **سیستم‌ها، شبکه‌ها، یا صرفاً شکستن چیزا برای تفریح** علاقه داری — با هم خوب کنار می‌ایم. تو [تلگرام](https://t.me/erffan_hub) یا [ایکس](https://x.com/Erffanhub_00) پیدام کن.
 
 ---
+
 <div align="center">
-  <br>
-  <strong>
-    ساخته شده با ☕، 🧠، و یه کم جنون.
-  </strong>
-  <br>
   <div style="width: 100%;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=B026FF&height=80&section=footer"
          alt="footer wave"
